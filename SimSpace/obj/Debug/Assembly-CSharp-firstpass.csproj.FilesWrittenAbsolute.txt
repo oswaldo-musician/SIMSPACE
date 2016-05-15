@@ -1,0 +1,17 @@
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/lissethbastidas/Documents/SimSpace/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/lissethbastidas/Documents/SimSpace/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/UnityEngine.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/UnityEditor.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Mono.Cecil.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Unity.DataContract.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/lissethbastidas/Documents/SimSpace/Temp/bin/Debug/Mono.Cecil.Mdb.dll
